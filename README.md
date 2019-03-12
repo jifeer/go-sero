@@ -263,3 +263,5 @@ The go-sero binaries (i.e. all code inside of the `cmd` directory) is licensed u
 in our repository in the `COPYING` file.
 
 *Note: Go Sero inherit with licenses of ethereum.*
+
+如保险行业、数字贵金属交易、期货交易、数字资产交易（如征信和知识产权等）、信贷行业等。在这些领域，SERO系统都大有用武之地
